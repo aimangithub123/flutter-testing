@@ -1,7 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_testing_tutorial/screens/my_home_page.dart';
 
-void main() {
+void main()
+
+{
   runApp(MyApp());
 }
 
